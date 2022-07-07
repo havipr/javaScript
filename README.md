@@ -1,2 +1,2 @@
 # javaScript
-all my JavaScript practice
+a little practice in JavaScript
